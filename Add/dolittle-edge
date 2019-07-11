@@ -1,0 +1,15 @@
+# [TITLE]: dolittle-edge
+# [DESCRIPTION]: The Dolittle Edge packages
+# [STATUS]: Active
+# [CAPABILITIES]:
+# [TAGS]: Dolittle IoT Edge
+# [MAINTAINER]: Jakob Høgenes <jakob@dolittle.com>
+
+include(sudo)
+include(vim)
+include(network-basic)
+include(NetworkManager-extras)
+include(cloud-native-basic)
+include(azure-iotedge)
+
+dolittle-edge
