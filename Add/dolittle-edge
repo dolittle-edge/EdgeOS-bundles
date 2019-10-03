@@ -13,3 +13,4 @@ include(cloud-native-basic)
 include(azure-iotedge)
 
 dolittle-edge
+dolittle-edge-agent
