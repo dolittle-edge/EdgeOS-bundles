@@ -8,7 +8,7 @@
 include(sudo)
 include(vim)
 include(network-basic)
-include(NetworkManager-extras)
+include(NetworkManager)
 include(cloud-native-basic)
 include(azure-iotedge)
 
