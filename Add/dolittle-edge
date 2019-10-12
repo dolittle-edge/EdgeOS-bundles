@@ -14,3 +14,4 @@ include(azure-iotedge)
 
 dolittle-edge
 dolittle-edge-agent
+kubernetes-bootstrapper
